@@ -1,0 +1,7 @@
+C:\Users\pc141-23\source\repos\Statdion\Statdion\obj\Debug\Statdion.csproj.AssemblyReference.cache
+C:\Users\pc141-23\source\repos\Statdion\Statdion\obj\Debug\Statdion.csproj.CoreCompileInputs.cache
+C:\Users\pc141-23\source\repos\Statdion\Statdion\bin\Debug\Statdion.exe.config
+C:\Users\pc141-23\source\repos\Statdion\Statdion\bin\Debug\Statdion.exe
+C:\Users\pc141-23\source\repos\Statdion\Statdion\bin\Debug\Statdion.pdb
+C:\Users\pc141-23\source\repos\Statdion\Statdion\obj\Debug\Statdion.exe
+C:\Users\pc141-23\source\repos\Statdion\Statdion\obj\Debug\Statdion.pdb
