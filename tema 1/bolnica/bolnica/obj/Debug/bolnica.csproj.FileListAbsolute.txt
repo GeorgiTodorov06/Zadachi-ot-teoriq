@@ -1,0 +1,7 @@
+C:\Users\pc141-23\source\repos\bolnica\bolnica\bin\Debug\bolnica.exe.config
+C:\Users\pc141-23\source\repos\bolnica\bolnica\bin\Debug\bolnica.exe
+C:\Users\pc141-23\source\repos\bolnica\bolnica\bin\Debug\bolnica.pdb
+C:\Users\pc141-23\source\repos\bolnica\bolnica\obj\Debug\bolnica.csproj.AssemblyReference.cache
+C:\Users\pc141-23\source\repos\bolnica\bolnica\obj\Debug\bolnica.csproj.CoreCompileInputs.cache
+C:\Users\pc141-23\source\repos\bolnica\bolnica\obj\Debug\bolnica.exe
+C:\Users\pc141-23\source\repos\bolnica\bolnica\obj\Debug\bolnica.pdb
