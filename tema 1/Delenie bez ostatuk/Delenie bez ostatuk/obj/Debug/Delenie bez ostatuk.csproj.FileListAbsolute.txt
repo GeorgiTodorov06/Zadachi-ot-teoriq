@@ -1,0 +1,8 @@
+D:\UPRAJNENIQ C#\Delenie bez ostatuk\Delenie bez ostatuk\obj\Debug\Delenie bez ostatuk.csproj.AssemblyReference.cache
+D:\UPRAJNENIQ C#\Delenie bez ostatuk\Delenie bez ostatuk\obj\Debug\Delenie bez ostatuk.csproj.SuggestedBindingRedirects.cache
+D:\UPRAJNENIQ C#\Delenie bez ostatuk\Delenie bez ostatuk\obj\Debug\Delenie bez ostatuk.csproj.CoreCompileInputs.cache
+D:\UPRAJNENIQ C#\Delenie bez ostatuk\Delenie bez ostatuk\bin\Debug\Delenie bez ostatuk.exe.config
+D:\UPRAJNENIQ C#\Delenie bez ostatuk\Delenie bez ostatuk\bin\Debug\Delenie bez ostatuk.exe
+D:\UPRAJNENIQ C#\Delenie bez ostatuk\Delenie bez ostatuk\bin\Debug\Delenie bez ostatuk.pdb
+D:\UPRAJNENIQ C#\Delenie bez ostatuk\Delenie bez ostatuk\obj\Debug\Delenie bez ostatuk.exe
+D:\UPRAJNENIQ C#\Delenie bez ostatuk\Delenie bez ostatuk\obj\Debug\Delenie bez ostatuk.pdb
