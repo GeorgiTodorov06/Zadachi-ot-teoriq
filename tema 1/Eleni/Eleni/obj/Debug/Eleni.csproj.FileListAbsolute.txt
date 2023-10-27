@@ -1,0 +1,7 @@
+C:\Users\pc141-23\source\repos\Eleni\Eleni\bin\Debug\Eleni.exe.config
+C:\Users\pc141-23\source\repos\Eleni\Eleni\bin\Debug\Eleni.exe
+C:\Users\pc141-23\source\repos\Eleni\Eleni\bin\Debug\Eleni.pdb
+C:\Users\pc141-23\source\repos\Eleni\Eleni\obj\Debug\Eleni.csproj.AssemblyReference.cache
+C:\Users\pc141-23\source\repos\Eleni\Eleni\obj\Debug\Eleni.csproj.CoreCompileInputs.cache
+C:\Users\pc141-23\source\repos\Eleni\Eleni\obj\Debug\Eleni.exe
+C:\Users\pc141-23\source\repos\Eleni\Eleni\obj\Debug\Eleni.pdb
